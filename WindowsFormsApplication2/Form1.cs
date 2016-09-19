@@ -15,6 +15,8 @@ namespace WindowsFormsApplication2
         public Form1()
         {
             InitializeComponent();
+            InitializeComponent();
+               InitializeComponent();
              InitializeComponent();
              return_connection();
         }
