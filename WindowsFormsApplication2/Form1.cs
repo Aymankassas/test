@@ -16,6 +16,12 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
              InitializeComponent();
+             return_connection();
+        }
+
+        public string return_connection()
+        {
+            return "My connection"; 
         }
     }
 }
