@@ -16,6 +16,8 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
              InitializeComponent();
+               InitializeComponent();
+             InitializeComponent();
         }
     }
 }
